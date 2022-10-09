@@ -6,8 +6,7 @@ int main()
 {
     int K, N;
 
-    cin >> K;
-    cin >> N;
+    cin >> K >> N;
 
     int arr[K];
     int result[K];
